@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Eco-Scan",
+    "slug": "eco-scan",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/earthcute.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/earthcute.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*",
+      "assets/**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.ecoscan.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/earthcute.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.ecoscan.app"
+    },
+    "web": {
+      "favicon": "./assets/images/earthcute.png"
+    },
+    "scheme": "eco-scan",
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
+

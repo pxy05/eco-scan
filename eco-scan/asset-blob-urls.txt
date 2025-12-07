@@ -1,0 +1,32 @@
+ECO-SCAN ASSET BLOB URLs
+================================================================================
+
+Generated blob URLs for all Figma assets
+Format: [Asset Name] - [Blob URL]
+
+--------------------------------------------------------------------------------
+
+EarthCute: blob:https://2139aacd-6823-44fe-b56d-17a66325283c-v2-figmaiframepreview.figma.site/6d9bbd56-0073-4561-aa87-bd1d54038135#filename=afde586264834bcd046545c0d95a8cf848cc7628.png
+EarthOkay: blob:https://2139aacd-6823-44fe-b56d-17a66325283c-v2-figmaiframepreview.figma.site/6d9bbd56-0073-4561-aa87-bd1d54038135#filename=1e1834c9877633fb626b2a16bf5528fdb2987e7d.png
+EarthBad: blob:https://2139aacd-6823-44fe-b56d-17a66325283c-v2-figmaiframepreview.figma.site/6d9bbd56-0073-4561-aa87-bd1d54038135#filename=1ea02e27f6b43428c017efb0cfeaed32f7c36609.png
+Banner: blob:https://2139aacd-6823-44fe-b56d-17a66325283c-v2-figmaiframepreview.figma.site/6d9bbd56-0073-4561-aa87-bd1d54038135#filename=89a68d4d2e443dc9d128552198c6b4bb9fbaa707.png
+Banner1: blob:https://2139aacd-6823-44fe-b56d-17a66325283c-v2-figmaiframepreview.figma.site/6d9bbd56-0073-4561-aa87-bd1d54038135#filename=baf74e84966d0bf95bcc545f957ceb14388bfe31.png
+Banner2: blob:https://2139aacd-6823-44fe-b56d-17a66325283c-v2-figmaiframepreview.figma.site/6d9bbd56-0073-4561-aa87-bd1d54038135#filename=aceea4457e0c859fef9cb441fa2f20b3764d426e.png
+Banner3: blob:https://2139aacd-6823-44fe-b56d-17a66325283c-v2-figmaiframepreview.figma.site/6d9bbd56-0073-4561-aa87-bd1d54038135#filename=606d5b783d2b7d8ffc5798d04d3698077704ec14.png
+Banner4: blob:https://2139aacd-6823-44fe-b56d-17a66325283c-v2-figmaiframepreview.figma.site/6d9bbd56-0073-4561-aa87-bd1d54038135#filename=affb1a17a2441ae681c8cbc6824da03a495654e4.png
+AppleLogo: blob:https://2139aacd-6823-44fe-b56d-17a66325283c-v2-figmaiframepreview.figma.site/6d9bbd56-0073-4561-aa87-bd1d54038135#filename=c63fba18206dca14439023ec44669018016f4c06.png
+GoogleLogo: blob:https://2139aacd-6823-44fe-b56d-17a66325283c-v2-figmaiframepreview.figma.site/6d9bbd56-0073-4561-aa87-bd1d54038135#filename=ba3866200fe28581a00f9748cde3c8d6caff1223.png
+Image17: blob:https://2139aacd-6823-44fe-b56d-17a66325283c-v2-figmaiframepreview.figma.site/6d9bbd56-0073-4561-aa87-bd1d54038135#filename=1a0b868082d3b796cbe0d8516b1740b032e89651.png
+Image12: blob:https://2139aacd-6823-44fe-b56d-17a66325283c-v2-figmaiframepreview.figma.site/6d9bbd56-0073-4561-aa87-bd1d54038135#filename=1f839c4c277132ba5be0f2d22bbf6f2978f2b871.png
+Source: blob:https://2139aacd-6823-44fe-b56d-17a66325283c-v2-figmaiframepreview.figma.site/6d9bbd56-0073-4561-aa87-bd1d54038135#filename=d1383aa904aa2ac981060499065c97955d094d63.png
+Image18: blob:https://2139aacd-6823-44fe-b56d-17a66325283c-v2-figmaiframepreview.figma.site/6d9bbd56-0073-4561-aa87-bd1d54038135#filename=9b60cd096b2933c4b28eb21c79e473aaf2555234.png
+Image24: blob:https://2139aacd-6823-44fe-b56d-17a66325283c-v2-figmaiframepreview.figma.site/6d9bbd56-0073-4561-aa87-bd1d54038135#filename=6d0226679e10092368049d71e8b97122b361e81e.png
+Earth: blob:https://2139aacd-6823-44fe-b56d-17a66325283c-v2-figmaiframepreview.figma.site/6d9bbd56-0073-4561-aa87-bd1d54038135#filename=5c997bd5f58445fb5dcaf0042284dcb140cd3296.png
+Image7: blob:https://2139aacd-6823-44fe-b56d-17a66325283c-v2-figmaiframepreview.figma.site/6d9bbd56-0073-4561-aa87-bd1d54038135#filename=bd895c19faff0c0e5107a0962486c409605ef59d.png
+Image10: blob:https://2139aacd-6823-44fe-b56d-17a66325283c-v2-figmaiframepreview.figma.site/6d9bbd56-0073-4561-aa87-bd1d54038135#filename=a818736a91c445e4b9a23a120f5dd6e52921e818.png
+Image21: blob:https://2139aacd-6823-44fe-b56d-17a66325283c-v2-figmaiframepreview.figma.site/6d9bbd56-0073-4561-aa87-bd1d54038135#filename=4d6ecffa2e6d72d4d2ec83886277afe1aa542341.png
+Image14: blob:https://2139aacd-6823-44fe-b56d-17a66325283c-v2-figmaiframepreview.figma.site/6d9bbd56-0073-4561-aa87-bd1d54038135#filename=f54d585bacb2d0346422290b03ba7715bb1276fb.png
+Image22: blob:https://2139aacd-6823-44fe-b56d-17a66325283c-v2-figmaiframepreview.figma.site/6d9bbd56-0073-4561-aa87-bd1d54038135#filename=7738ce515798cd0eebd6a58591d21cb89c7a9fb3.png
+VideoTutorial: blob:https://2139aacd-6823-44fe-b56d-17a66325283c-v2-figmaiframepreview.figma.site/6d9bbd56-0073-4561-aa87-bd1d54038135#filename=854e416d028632fbfb1eb970935a074f612a2576.png
+Image20: blob:https://2139aacd-6823-44fe-b56d-17a66325283c-v2-figmaiframepreview.figma.site/6d9bbd56-0073-4561-aa87-bd1d54038135#filename=53875ae10641d89650e5900baac83461110a7534.png
+Logo: blob:https://2139aacd-6823-44fe-b56d-17a66325283c-v2-figmaiframepreview.figma.site/6d9bbd56-0073-4561-aa87-bd1d54038135#filename=92375b66cc5f6db228cbba4fabc2bd6032c970de.png
